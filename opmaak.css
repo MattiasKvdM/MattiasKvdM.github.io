@@ -21,7 +21,10 @@ a:hover {
 a:active {
   color: blue;
 }
-</style>
+
+<html>
+<head>
+<style>
 ul.demo {
   list-style-type: none;
   margin: 0;
@@ -35,5 +38,9 @@ ul.demo {
 <ul>
   <li>Home</li>
   <li>Binair stelsel</li>
-  <li>Kleurenmodellen</li>
+  <li>Kleurmodellen</li>
 </ul>
+
+</body>
+</html>
+
