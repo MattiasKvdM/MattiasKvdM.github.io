@@ -96,12 +96,12 @@ footer {
     transform: translateY(2px);
 }
 
-/* Primary button */
-.button-primary {
+/* Home */
+.button-Home {
     background-color: #0066cc;
 }
 
-.button-primary:hover {
+.button-Home:hover {
     background-color: #005bb5;
 }
 
