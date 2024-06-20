@@ -95,21 +95,3 @@ footer {
     box-shadow: 0 2px #666;
     transform: translateY(2px);
 }
-
-/* Home */
-.button-Home {
-    background-color: #0066cc;
-}
-
-.button-Home:hover {
-    background-color: #005bb5;
-}
-
-/* Secondary button */
-.button-secondary {
-    background-color: #f44336;
-}
-
-.button-secondary:hover {
-    background-color: #da190b;
-}
