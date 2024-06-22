@@ -16,20 +16,15 @@ h1 {
 h2 {
     font-size: 2em;
     color: #444;
-    text-align: center;
+    text-align: left;
 }
 
 h3 {
     font-size: 1em;
     color: #555;
-    text-align: center;
+    text-align: left;
 }
 
-p {
-    font-size: 1em;
-    color: #555;
-    text-align: center;
-}
 
 /* Paragraphs */
 p {
