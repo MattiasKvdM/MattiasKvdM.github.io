@@ -25,6 +25,12 @@ h3 {
     text-align: center;
 }
 
+p {
+    font-size: 1em;
+    color: #555;
+    text-align: center;
+}
+
 /* Paragraphs */
 p {
     margin: 1em 0;
