@@ -1,6 +1,6 @@
 /* Fonts */
 body {
-    font-family: Times New Roman; /*Arial, sans-serif*/
+    font-family: 'Chakra Petch', serif;
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;
@@ -115,3 +115,21 @@ footer {
     box-shadow: 0 2px #666;
     transform: translateY(2px);
 }
+/* scrollbar */
+::-webkit-scrollbar {
+width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+} 
