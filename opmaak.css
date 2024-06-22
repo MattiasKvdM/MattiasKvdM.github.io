@@ -25,6 +25,11 @@ h3 {
     text-align: left;
 }
 
+h4 {
+    font-size: 3em;
+    color: #222;
+    text-align: center;
+}
 
 /* Paragraphs */
 p {
