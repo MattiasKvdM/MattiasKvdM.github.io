@@ -1,0 +1,87 @@
+
+<!DOCTYPE html
+<html>
+<head>
+  <title>Binair Stelsel</title>
+  <link rel="stylesheet" type="text/css" href="opmaak.css">
+  <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+ <style>
+    body {
+  background-color: #e6ffe7;
+}
+    div {
+  margin: 15px;
+}
+  </style>
+  
+    <body>
+      
+    <nav>
+<a href="index.html" class="button">Home</a> <!--knop naar Home --> 
+
+<a href="binairstelsel.html" class="button">Binair stelsel</a> <!--knop naar Binair stelsel-->
+
+<a href="kleurmodellen.html" class="button">kleurmodellen</a> <!--knop terug naar de Kleurmodellen-->
+
+<a href="muziek.html" class="button">Muziek</a> <!--knop terug naar Muziek-->
+
+
+    </nav>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <div> 
+    <title>Het Binair Stelsel</title>
+</head>
+<body>
+    <h1>Het Binair Stelsel</h1>
+  
+  
+  <<h4>Het binaire stelsel, ook wel het tweedelig talstelsel genoemd, is een manier om getallen te representeren met slechts twee symbolen: 0 en 1. Dit systeem wordt veel gebruikt in de computerwereld omdat computers op basis van elektrische signalen werken, die eenvoudig kunnen worden weergegeven als "aan" (1) of "uit" (0).</h4>
+
+    <h2>Basis van het Binair Stelsel</h2>
+    <p>In het decimale stelsel, dat we dagelijks gebruiken, heeft elk cijfer een waarde afhankelijk van zijn positie en de basis 10. In het binaire stelsel werkt dit op dezelfde manier, maar dan met basis 2.</p>
+    <p>Bijvoorbeeld, het binaire getal <code>1101</code> kan worden omgezet naar het decimale stelsel door de waarden als volgt op te tellen:</p>
+    <ul>
+        <li>(1 × 2^3) + (1 × 2^2) + (0 × 2^1) + (1 × 2^0)</li>
+        <li>8 + 4 + 0 + 1 = 13</li>
+    </ul>
+    <p>Dus <code>1101</code> in het binaire stelsel is gelijk aan <code>13</code> in het decimale stelsel.</p>
+
+    <h2>Conversie tussen Binaire en Decimale Getallen</h2>
+    <ul>
+        <li><strong>Van binair naar decimaal:</strong> Dit doe je door elke binaire digit te vermenigvuldigen met 2 opgeheven tot de macht van zijn positie (beginnend bij 0 van rechts naar links) en vervolgens deze producten op te tellen.</li>
+        <li><strong>Van decimaal naar binair:</strong> Deel het decimale getal herhaaldelijk door 2 en noteer de rest. De binaire representatie wordt verkregen door de resten in omgekeerde volgorde te lezen.</li>
+    </ul>
+
+    <h3>Voorbeeld van Decimaal naar Binair Conversie</h3>
+    <p>Neem bijvoorbeeld het getal 19:</p>
+    <ol>
+        <li>19 / 2 = 9 rest 1</li>
+        <li>9 / 2 = 4 rest 1</li>
+        <li>4 / 2 = 2 rest 0</li>
+        <li>2 / 2 = 1 rest 0</li>
+        <li>1 / 2 = 0 rest 1</li>
+    </ol>
+    <p>Lees de resten van onder naar boven om 19 te converteren naar binair: <code>10011</code>.</p>
+
+    <h2>Toepassingen van het Binair Stelsel</h2>
+    <ul>
+        <li><strong>Computersystemen:</strong> Alles wat een computer doet, is gebaseerd op binaire code. Elk programma dat je uitvoert, elke website die je bezoekt, en elk bestand dat je opslaat, wordt uiteindelijk omgezet in een reeks nullen en enen.</li>
+        <li><strong>Digitale elektronica:</strong> Binaire getallen worden gebruikt in schakelingen en logische poorten om verschillende bewerkingen uit te voeren.</li>
+    </ul>
+
+    <h2>Meer Leren</h2>
+    <p>Als je meer wilt leren over het binaire stelsel en hoe je ermee kunt werken, kun je het volgende interactieve leerplatform bezoeken: <a href="https://games.penjee.com/binary-bonanza/">Binary Bonanza</a>.</p>
+    <p>Als je meer uitleg wilt over hoe het binaire stelsel werkt, met animaties etc. kun je de <a href="https://www.youtube.com/watch?v=LpuPe81bc2w">Uitleg video Binair </a> bekijken.</p>
+
+    <p>Dit was een beknopte introductie tot het binaire stelsel. Het is een fundamenteel concept in de informatica en technologie dat de basis vormt voor alles wat met computers te maken heeft.</p>
+</body>
+      </div>
+</html>
+
+                <footer>
+        &copy; 2024 Mattias Kromhout van der Meer
+    </footer>
+    </body>
+    </html>
