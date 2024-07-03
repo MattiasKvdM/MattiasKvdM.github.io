@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-/* Headings */
+/* Headings (h4 is voor inleiding) */
 h1 {
     font-size: 4em;
     color: #222;
@@ -79,7 +79,7 @@ footer {
     bottom: 0;
 }
 
-/* knoppen */
+/* knoppen (deze of de andere)*/
 /* .button {
     display: inline-block;
     padding: 10px 20px;
